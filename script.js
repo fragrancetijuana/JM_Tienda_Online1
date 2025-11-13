@@ -1,4 +1,3 @@
-// --- REFERENCIAS DE FIREBASE (vienen desde index.html) ---
 const auth = window.firebaseAuth;
 const db = window.firebaseDB;
 
